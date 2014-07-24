@@ -15,5 +15,3 @@ dictionaries.forEach(function(dict) {
 
 // default words list
 module.exports.words = module.exports['american-english'];
-
-console.log(module.exports);
